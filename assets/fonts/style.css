@@ -1,0 +1,20 @@
+@font-face {
+   font-family: 'Basecoat-Regular';
+   font-display: swap;
+   src: url('Basecoat-Regular/font.woff');
+}
+@font-face {
+   font-family: 'codec.warm-trial-thin';
+   font-display: swap;
+   src: url('codec.warm-trial-thin/font.woff');
+}
+@font-face {
+   font-family: 'SangBleuSans-Hairline';
+   font-display: swap;
+   src: url('SangBleuSans-Hairline/font.woff');
+}
+@font-face {
+   font-family: 'Mont-Regular';
+   font-display: swap;
+   src: url('Mont-Regular/font.woff');
+}
