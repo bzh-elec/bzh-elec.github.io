@@ -9,21 +9,21 @@ l. 72 data-pause="false"
 
 Optimisations:
 
-// <link rel=”prefetch” href=”//www.votresite.com”>
+`<link rel=”prefetch” href=”//www.votresite.com”>`
 
-// <link rel=”dns-prefetch” href=”//www.votresite.com”>
+`<link rel=”dns-prefetch” href=”//www.votresite.com”>`
 
-// <link rel=”prerender” href=”//www.votresite.com”>
+`<link rel=”prerender” href=”//www.votresite.com”>`
 
-as=”audio”
+`as=”audio”`
 
-as=”vidéo”
+`as=”vidéo”`
 
-as=”police”
+`as=”police”`
 
-as=”script”
+`as=”script”`
 
-as=”image”
+`as=”image”`
 
 
-// <link rel="preload" href="/assets/Pacifico-Bold.woff2" as="font" type="font/woff2" crossorigin>
+`<link rel="preload" href="/assets/Pacifico-Bold.woff2" as="font" type="font/woff2" crossorigin>`
