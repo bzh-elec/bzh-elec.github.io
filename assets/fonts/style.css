@@ -13,8 +13,3 @@
    font-display: swap;
    src: url('Mont-Light/font.woff');
 }
-@font-face {
-   font-family: 'Mont-Regular';
-   font-display: swap;
-   src: url('Mont-Regular/font.woff');
-}

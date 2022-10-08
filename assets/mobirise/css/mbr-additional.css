@@ -18,7 +18,7 @@ body {
   font-size: 4.48rem;
 }
 .display-4 {
-  font-family: 'Mont-Regular';
+  font-family: 'Basecoat-Regular';
   font-size: 1rem;
   font-display: swap;
 }
@@ -34,12 +34,12 @@ body {
   font-size: 3.52rem;
 }
 .display-7 {
-  font-family: 'DM Sans', sans-serif;
-  font-size: 1.2rem;
+  font-family: 'Basecoat-Regular';
+  font-size: 1rem;
   font-display: swap;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.92rem;
+  font-size: 1.6rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -98,7 +98,7 @@ body {
   background-color: #149dcc !important;
 }
 .bg-danger {
-  background-color: #149dcc !important;
+  background-color: #232323 !important;
 }
 .btn-primary,
 .btn-primary:active {
@@ -202,8 +202,8 @@ body {
 }
 .btn-danger,
 .btn-danger:active {
-  background-color: #149dcc !important;
-  border-color: #149dcc !important;
+  background-color: #232323 !important;
+  border-color: #232323 !important;
   color: #ffffff !important;
 }
 .btn-danger:hover,
@@ -211,14 +211,14 @@ body {
 .btn-danger.focus,
 .btn-danger.active {
   color: #ffffff !important;
-  background-color: #0d6786 !important;
-  border-color: #0d6786 !important;
+  background-color: #000000 !important;
+  border-color: #000000 !important;
 }
 .btn-danger.disabled,
 .btn-danger:disabled {
   color: #ffffff !important;
-  background-color: #0d6786 !important;
-  border-color: #0d6786 !important;
+  background-color: #000000 !important;
+  border-color: #000000 !important;
 }
 .btn-white {
   color: #333333 !important;
@@ -366,22 +366,22 @@ body {
 .btn-danger-outline,
 .btn-danger-outline:active {
   background: none;
-  border-color: #0b566f;
-  color: #0b566f;
+  border-color: #000000;
+  color: #000000;
 }
 .btn-danger-outline:hover,
 .btn-danger-outline:focus,
 .btn-danger-outline.focus,
 .btn-danger-outline.active {
   color: #ffffff;
-  background-color: #149dcc;
-  border-color: #149dcc;
+  background-color: #232323;
+  border-color: #232323;
 }
 .btn-danger-outline.disabled,
 .btn-danger-outline:disabled {
   color: #ffffff !important;
-  background-color: #149dcc !important;
-  border-color: #149dcc !important;
+  background-color: #232323 !important;
+  border-color: #232323 !important;
 }
 .btn-black-outline,
 .btn-black-outline:active {
@@ -433,7 +433,7 @@ body {
   color: #149dcc !important;
 }
 .text-danger {
-  color: #149dcc !important;
+  color: #232323 !important;
 }
 .text-white {
   color: #ffffff !important;
@@ -463,7 +463,7 @@ a.text-warning:focus {
 }
 a.text-danger:hover,
 a.text-danger:focus {
-  color: #0b566f !important;
+  color: #000000 !important;
 }
 a.text-white:hover,
 a.text-white:focus {
@@ -483,7 +483,7 @@ a.text-black:focus {
   background-color: #149dcc;
 }
 .alert-danger {
-  background-color: #149dcc;
+  background-color: #232323;
 }
 .mbr-section-btn a.btn:not(.btn-form):hover,
 .mbr-section-btn a.btn:not(.btn-form):focus {
@@ -519,19 +519,16 @@ a:hover {
 }
 .mbr-plan-header.bg-danger .mbr-plan-subtitle,
 .mbr-plan-header.bg-danger .mbr-plan-price-desc {
-  color: #b4e6f8;
+  color: #d5d5d5;
 }
 /* Scroll to top button*/
-.scrollToTop_wraper {
-  display: none;
-}
 .form-control {
-  font-family: 'DM Sans', sans-serif;
-  font-size: 1.2rem;
+  font-family: 'Basecoat-Regular';
+  font-size: 1rem;
   font-display: swap;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.92rem;
+  font-size: 1.6rem;
 }
 blockquote {
   border-color: #149dcc;
