@@ -11,11 +11,11 @@ body {
 }
 .display-2 {
   font-family: 'codec.warm-trial-thin';
-  font-size: 2.4rem;
+  font-size: 2.8rem;
   font-display: swap;
 }
 .display-2 > .mbr-iconfont {
-  font-size: 3.84rem;
+  font-size: 4.48rem;
 }
 .display-4 {
   font-family: 'Mont-Regular';
@@ -26,15 +26,15 @@ body {
   font-size: 1.6rem;
 }
 .display-5 {
-  font-family: 'Mont-Regular';
-  font-size: 2.4rem;
+  font-family: 'Mont-Light';
+  font-size: 2.2rem;
   font-display: swap;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 3.84rem;
+  font-size: 3.52rem;
 }
 .display-7 {
-  font-family: 'SangBleuSans-Hairline';
+  font-family: 'DM Sans', sans-serif;
   font-size: 1.2rem;
   font-display: swap;
 }
@@ -53,9 +53,9 @@ body {
     line-height: calc( 1.4 * (1.49rem + (2.4 - 1.49) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
-    font-size: 1.92rem;
-    font-size: calc( 1.49rem + (2.4 - 1.49) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.49rem + (2.4 - 1.49) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 2.24rem;
+    font-size: calc( 1.63rem + (2.8 - 1.63) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.63rem + (2.8 - 1.63) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
     font-size: 0.8rem;
@@ -63,9 +63,9 @@ body {
     line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 1.92rem;
-    font-size: calc( 1.49rem + (2.4 - 1.49) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.49rem + (2.4 - 1.49) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.76rem;
+    font-size: calc( 1.42rem + (2.2 - 1.42) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.42rem + (2.2 - 1.42) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -526,7 +526,7 @@ a:hover {
   display: none;
 }
 .form-control {
-  font-family: 'SangBleuSans-Hairline';
+  font-family: 'DM Sans', sans-serif;
   font-size: 1.2rem;
   font-display: swap;
 }
@@ -2772,7 +2772,7 @@ section.lazy-placeholder:after {
   border-radius: 50px;
 }
 .cid-tjwuwExuq9 H2 {
-  color: #c1c1c1;
+  color: #efefef;
 }
 .cid-tjtIUHHpw3 {
   padding-top: 1rem;
@@ -2803,7 +2803,7 @@ section.lazy-placeholder:after {
   width: 100%;
 }
 .cid-tjAQpmurRB {
-  padding-top: 4rem;
+  padding-top: 3rem;
   padding-bottom: 3rem;
   background-color: #fbd535;
 }
