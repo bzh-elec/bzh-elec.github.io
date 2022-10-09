@@ -9,12 +9,7 @@
    src: url('codec.warm-trial-thin/font.woff');
 }
 @font-face {
-   font-family: 'SangBleuSans-Hairline';
+   font-family: 'Mont-Light';
    font-display: swap;
-   src: url('SangBleuSans-Hairline/font.woff');
-}
-@font-face {
-   font-family: 'Mont-Regular';
-   font-display: swap;
-   src: url('Mont-Regular/font.woff');
+   src: url('Mont-Light/font.woff');
 }

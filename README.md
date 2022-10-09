@@ -2,9 +2,10 @@
 
 TODO
 
-Remplacer
 
-l. 72 data-pause="false"
+lightbox.min.js remplacer
+{albumLabel:"Image %1 of %2"
+{albumLabel:"Image %1 sur %2"
 
 
 Optimisations:
