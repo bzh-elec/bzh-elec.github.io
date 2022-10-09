@@ -22,7 +22,7 @@
         "display4Font": "Basecoat-Regular",
         "display4Size": "1",
         "isRoundedButtons": false,
-        "isAnimatedOnScroll": true,
+        "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
