@@ -7,7 +7,7 @@ Remplacer lightbox.min.js:
 {albumLabel:"Image %1 sur %2"
 
 
-Optimisations:
+Optimisations (edit):
 <link rel="prefetch" href="https://bzh-elec-github-io.pages.dev/">
 <link rel="prefetch" href="https://bzh-elec-github-io.pages.dev/index.html">
 <link rel="prefetch" href="https://bzh-elec-github-io.pages.dev/merci.html">
