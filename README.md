@@ -8,12 +8,12 @@ Remplacer lightbox.min.js:
 
 
 Optimisations (edit):
-<link rel="prefetch" href="https://bzh-elec-github-io.pages.dev/">
-<link rel="prefetch" href="https://bzh-elec-github-io.pages.dev/index.html">
-<link rel="prefetch" href="https://bzh-elec-github-io.pages.dev/merci.html">
-<link rel="prerender" href="https://bzh-elec-github-io.pages.dev/">
-<link rel="prerender" href="https://bzh-elec-github-io.pages.dev/index.html">
-<link rel="prerender" href="https://bzh-elec-github-io.pages.dev/merci.html">
+<link rel="prefetch" href="http://breizh-electrik.fr/">
+<link rel="prefetch" href="http://breizh-electrik.fr/index.html">
+<link rel="prefetch" href="http://breizh-electrik.fr/merci.html">
+<link rel="prerender" href="http://breizh-electrik.fr/">
+<link rel="prerender" href="http://breizh-electrik.fr/">
+<link rel="prerender" href="http://breizh-electrik.fr/">
 <link rel="dns-prefetch" href="https://api.staticforms.xyz/">
 <link rel="preload" href="assets/fonts/Basecoat-Regular/font.woff" as="font" type="font/woff" crossorigin>
 <link rel="preload" href="assets/fonts/Mont-Light/font.woff" as="font" type="font/woff" crossorigin>
