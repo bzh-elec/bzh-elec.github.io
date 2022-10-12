@@ -1,0 +1,15 @@
+@font-face {
+   font-family: 'Basecoat-Regular';
+   font-display: swap;
+   src: url('Basecoat-Regular/font.woff');
+}
+@font-face {
+   font-family: 'codec.warm-trial-thin';
+   font-display: swap;
+   src: url('codec.warm-trial-thin/font.woff');
+}
+@font-face {
+   font-family: 'Mont-Light';
+   font-display: swap;
+   src: url('Mont-Light/font.woff');
+}
