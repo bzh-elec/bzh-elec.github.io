@@ -1235,6 +1235,7 @@ section.lazy-placeholder:after {
   }
 }
 .cid-tjtKIZ5NSa .mbr-slider .carousel-indicators {
+  display: none;
   position: absolute;
   bottom: 0;
   margin-bottom: 1.5rem !important;
@@ -2130,6 +2131,7 @@ section.lazy-placeholder:after {
   }
 }
 .cid-tk0c4TDzJe .mbr-slider .carousel-indicators {
+  display: none;
   position: absolute;
   bottom: 0;
   margin-bottom: 1.5rem !important;
