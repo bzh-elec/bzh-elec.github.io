@@ -23,4 +23,5 @@ Optimisations (edit):
 <link rel="preload" href="assets/web/assets/mobirise-icons2/mobirise2.woff" as="font" type="font/woff" crossorigin>
 <link rel="preload" href="assets/web/assets/mobirise-icons/mobirise-icons.woff" as="font" type="font/woff" crossorigin>
 
-img src loading="lazy" 
+<img src= ... loading="lazy" 
+<script src= vers <script async src=
