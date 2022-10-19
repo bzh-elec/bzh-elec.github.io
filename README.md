@@ -8,6 +8,7 @@ Remplacer lightbox.min.js:
 
 
 Optimisations (edit):
+
 <link rel="prefetch" href="http://breizh-electrik.fr/">
 <link rel="prefetch" href="http://breizh-electrik.fr/index.html">
 <link rel="prefetch" href="http://breizh-electrik.fr/merci.html">
@@ -21,3 +22,5 @@ Optimisations (edit):
 <link rel="preload" href="assets/material-design/fonts/MaterialIcons-Regular.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="assets/web/assets/mobirise-icons2/mobirise2.woff" as="font" type="font/woff" crossorigin>
 <link rel="preload" href="assets/web/assets/mobirise-icons/mobirise-icons.woff" as="font" type="font/woff" crossorigin>
+
+img src loading="lazy" 
