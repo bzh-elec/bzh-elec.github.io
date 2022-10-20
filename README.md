@@ -8,6 +8,9 @@ Remplacer lightbox.min.js:
 
 
 Optimisations (edit):
+
+JSCompress
+
 >   link rel="prefetch" href="https://breizh-electrik.fr/"
 
 >   link rel="prefetch" href="https://breizh-electrik.fr/index.html"
@@ -37,5 +40,4 @@ Optimisations (edit):
 
 >   script src= => <script async src=
 
->   JSCompress
 
