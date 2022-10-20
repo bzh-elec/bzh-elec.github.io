@@ -1,8 +1,1 @@
-$(function() {
- 
-    $('.filter-button').on('click', function(e) {
-        $('.btn.active').removeClass('active');
-        $(this).addClass('active');
-        e.preventDefault();
-    });
-});
+$(function(){$(".filter-button").on("click",function(t){$(".btn.active").removeClass("active"),$(this).addClass("active"),t.preventDefault()})});
