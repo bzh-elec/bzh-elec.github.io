@@ -3,8 +3,8 @@
 TODO
 
 Remplacer lightbox.min.js:
-{albumLabel:"Image %1 of %2"
-{albumLabel:"Image %1 sur %2"
+
+>{albumLabel:"Image %1 of %2" => {albumLabel:"Image %1 sur %2"
 
 
 Optimisations (edit):
