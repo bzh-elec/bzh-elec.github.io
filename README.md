@@ -36,8 +36,8 @@ JSCompress
 >   link rel="preload" href="assets/fonts/codec.warm-trial-thin/font.woff" as="font" type="font/woff" crossorigin
 
 
->   img src= [...] loading="lazy" 
+>   img src [...] loading="lazy" 
 
->   script src= => <script async src=
+>   script src => script async src
 
 
